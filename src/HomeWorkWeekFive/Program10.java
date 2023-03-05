@@ -12,6 +12,5 @@ public class Program10 {
         int a =25;
         int b = 5;
         System.out.println(a*b);
-
     }
 }
